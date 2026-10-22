@@ -3,10 +3,9 @@
 # Uso, no Terminal:
 #   curl -fsSL https://raw.githubusercontent.com/quero-canja/interchange-releases/main/install.sh | bash
 set -euo pipefail
-BASE="https://raw.githubusercontent.com/quero-canja/interchange-releases/main"
 T="$(mktemp -d)"; trap 'rm -rf "$T"' EXIT
 echo "Canja Interchange: procurando a versão mais nova..."
-curl -fsSL "$BASE/latest.json?t=$(date +%s)" -o "$T/latest.json"
+curl -fsSL "https://github.com/quero-canja/interchange-releases/releases/latest/download/latest.json" -o "$T/latest.json"
 URL=$(plutil -extract url raw -o - "$T/latest.json")
 SHA=$(plutil -extract sha256 raw -o - "$T/latest.json")
 VER=$(plutil -extract version raw -o - "$T/latest.json")
