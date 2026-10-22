@@ -1,11 +1,11 @@
 {
-  "version": "0.7",
-  "build": 7,
-  "url": "https://github.com/quero-canja/interchange-releases/releases/download/v0.7/Canja-Interchange-0.7.zip",
-  "sha256": "9efc3fd3774031756184c1be68307a3fe3fdeb7ba326e8722b340e9afb02171b",
-  "size": 789600,
+  "version": "0.7.1",
+  "build": 8,
+  "url": "https://github.com/quero-canja/interchange-releases/releases/download/v0.7.1/Canja-Interchange-0.7.1.zip",
+  "sha256": "35c23c3e08d9f2d6ce3b27d5ce5258e396c3770fe9a61c78740839c7cd06a970",
+  "size": 789563,
   "min_build": 0,
-  "notes_pt": "Atualização automática: o app agora avisa quando tem versão nova e se atualiza sozinho. Log diário em Ajuda > Mostrar log.",
-  "notes_en": "Automatic updates: the app now tells you when a new version is out and updates itself. Daily log in Help > Show Log.",
-  "date": "2026-10-22T20:41:24.065Z"
+  "notes_pt": "Teste da atualização automática.",
+  "notes_en": "Automatic update test.",
+  "date": "2026-10-22T20:42:33.001Z"
 }
