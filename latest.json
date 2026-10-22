@@ -1,11 +1,11 @@
 {
-  "version": "0.7.1",
-  "build": 8,
-  "url": "https://github.com/quero-canja/interchange-releases/releases/download/v0.7.1/Canja-Interchange-0.7.1.zip",
-  "sha256": "35c23c3e08d9f2d6ce3b27d5ce5258e396c3770fe9a61c78740839c7cd06a970",
-  "size": 789563,
+  "version": "0.7.2",
+  "build": 9,
+  "url": "https://github.com/quero-canja/interchange-releases/releases/download/v0.7.2/Canja-Interchange-0.7.2.zip",
+  "sha256": "6bd3317e1394974d335dff0516345c8ad9c524b9ef5dd89a22dacd2f8b910426",
+  "size": 789320,
   "min_build": 0,
-  "notes_pt": "Teste da atualização automática.",
-  "notes_en": "Automatic update test.",
-  "date": "2026-10-22T20:42:33.001Z"
+  "notes_pt": "Atualização automática mais rápida: a versão nova aparece na hora em que é publicada.",
+  "notes_en": "Faster automatic updates: new versions show up as soon as they are published.",
+  "date": "2026-10-22T20:48:37.993Z"
 }
