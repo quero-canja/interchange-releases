@@ -1,11 +1,11 @@
 {
-  "version": "0.7.2",
-  "build": 9,
-  "url": "https://github.com/quero-canja/interchange-releases/releases/download/v0.7.2/Canja-Interchange-0.7.2.zip",
-  "sha256": "6bd3317e1394974d335dff0516345c8ad9c524b9ef5dd89a22dacd2f8b910426",
-  "size": 789320,
+  "version": "0.7.3",
+  "build": 10,
+  "url": "https://github.com/quero-canja/interchange-releases/releases/download/v0.7.3/Canja-Interchange-0.7.3.zip",
+  "sha256": "051058d507074db4900355ab9c3ec8f9ff0be2a83db345103fd3723b6cf9fcff",
+  "size": 837238,
   "min_build": 0,
-  "notes_pt": "Atualização automática mais rápida: a versão nova aparece na hora em que é publicada.",
-  "notes_en": "Faster automatic updates: new versions show up as soon as they are published.",
-  "date": "2026-10-22T20:48:37.993Z"
+  "notes_pt": "Sessão do Logic mais compatível com versões diferentes do Logic. O app também acha sozinho a mídia que está ao lado do OMF ou AAF.",
+  "notes_en": "Logic session more compatible with different Logic versions. The app also finds on its own the media sitting next to the OMF or AAF.",
+  "date": "2026-11-05T00:19:41.771Z"
 }
