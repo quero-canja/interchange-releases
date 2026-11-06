@@ -1,11 +1,11 @@
 {
-  "version": "0.7.5",
-  "build": 12,
-  "url": "https://github.com/quero-canja/interchange-releases/releases/download/v0.7.5/Canja-Interchange-0.7.5.zip",
-  "sha256": "3f1b8a2b2f5978e0f1ee450439f0930ae58208af6a0fda123b2528746f0e5061",
-  "size": 840380,
+  "version": "0.7.6",
+  "build": 13,
+  "url": "https://github.com/quero-canja/interchange-releases/releases/download/v0.7.6/Canja-Interchange-0.7.6.zip",
+  "sha256": "9c3abe48dd3aa807391740b23fc9db8fa5c73abd7fd9f2b10e86def34230f067",
+  "size": 847389,
   "min_build": 0,
-  "notes_pt": "Logic: volta a abrir a sessão direto em todas as versões. No Logic 11, se aparecer \"The file couldn't be opened.\", o app mostra como importar (File > Import > Final Cut Pro XML).",
-  "notes_en": "Logic: the session opens directly again in every version. In Logic 11, if you see \"The file couldn't be opened.\", the app shows how to import it (File > Import > Final Cut Pro XML).",
-  "date": "2026-11-06T21:03:32.330Z"
+  "notes_pt": "Mídia em pasta Audio Files ao lado do OMF/AAF: a 0.7.3 achava os arquivos mas não conseguia ler (\"Load failed\" ou \"formato não suportado\"). Agora lê.",
+  "notes_en": "Media in an Audio Files folder next to the OMF/AAF: since 0.7.3 the files were found but could not be read (\"Load failed\" or \"unsupported format\"). They are read now.",
+  "date": "2026-11-06T22:06:53.328Z"
 }
