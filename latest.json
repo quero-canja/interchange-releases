@@ -1,11 +1,11 @@
 {
-  "version": "0.7.4",
-  "build": 11,
-  "url": "https://github.com/quero-canja/interchange-releases/releases/download/v0.7.4/Canja-Interchange-0.7.4.zip",
-  "sha256": "fa452b855b973d4651723eeaa99c2bbbb93604a537876f375c21afe9b88a0844",
-  "size": 841155,
+  "version": "0.7.5",
+  "build": 12,
+  "url": "https://github.com/quero-canja/interchange-releases/releases/download/v0.7.5/Canja-Interchange-0.7.5.zip",
+  "sha256": "3f1b8a2b2f5978e0f1ee450439f0930ae58208af6a0fda123b2528746f0e5061",
+  "size": 840380,
   "min_build": 0,
-  "notes_pt": "Logic 11: o app agora abre o Logic e mostra como importar a sessão (File > Import > Final Cut Pro XML), em vez do erro \"The file couldn't be opened.\". Mídia externa: arquivo de 0 bytes (pasta do Dropbox só online) agora avisa para deixar a pasta disponível offline, e AIFF-C de 16, 24 e 32 bits passou a ser lido.",
-  "notes_en": "Logic 11: the app now opens Logic and shows how to import the session (File > Import > Final Cut Pro XML) instead of the \"The file couldn't be opened.\" error. External media: 0-byte files (online-only Dropbox folder) now ask you to make the folder available offline, and 16, 24 and 32-bit AIFF-C files are now read.",
-  "date": "2026-11-06T20:35:56.256Z"
+  "notes_pt": "Logic: volta a abrir a sessão direto em todas as versões. No Logic 11, se aparecer \"The file couldn't be opened.\", o app mostra como importar (File > Import > Final Cut Pro XML).",
+  "notes_en": "Logic: the session opens directly again in every version. In Logic 11, if you see \"The file couldn't be opened.\", the app shows how to import it (File > Import > Final Cut Pro XML).",
+  "date": "2026-11-06T21:03:32.330Z"
 }
